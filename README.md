@@ -1,4 +1,4 @@
-## DASHBOARD
+# DASHBOARD
 
 [Go to my dashboard](https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofHRdataset/HRDashboard)
 
