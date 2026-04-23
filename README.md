@@ -9,7 +9,7 @@ Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/ankit-khareshiya/) 🌐
 
-[Go to My Dashboard]([https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes](https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofHRdataset/HRDashboard?publish=yes))
+[Go to My Dashboard]([(https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofHRdataset/HRDashboard?publish=yes)])
 
 ## PROJECT NAME:
 
