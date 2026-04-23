@@ -56,12 +56,9 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD
 
-![HR Dashboard ](https://github.com/Ankit-Khareshiya/Analysis-of-HR-dataset/blob/main/HR%20Dashboard%20.png)
-
-### DASHBOARD Link
-
 [Go to my dashboard](https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofHRdataset/HRDashboard)
 
+![HR Dashboard ](https://github.com/Ankit-Khareshiya/Analysis-of-HR-dataset/blob/main/HR%20Dashboard%20.png)
 
 ### DASHBOARD Overview
 
