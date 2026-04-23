@@ -7,9 +7,9 @@
 ## Links:
 Lets Connect 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/ankit-khareshiya/) 🌐
 
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
+[Go to My Dashboard]([https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes](https://public.tableau.com/app/profile/bat.man6773/viz/AnalysisofHRdataset/HRDashboard?publish=yes))
 
 ## PROJECT NAME:
 
@@ -93,16 +93,9 @@ Overall, HR Analytics Dashboard project using Tableau is an essential tool for a
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+[Go to my LinkedIn](https://www.linkedin.com/in/ankit-khareshiya/) 🌐
 
-## My Other Projects:
 
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
+- [Github Profile](https://github.com/Ankit-Khareshiya) 🧮
 
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
+- [Linkedin](https://www.linkedin.com/in/ankit-khareshiya/) 🤝
